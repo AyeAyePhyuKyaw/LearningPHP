@@ -1,0 +1,48 @@
+#header, #footer{
+	text-align: center;
+	color: #0000FF;
+}
+
+#reg_form, #result_table > table > tbody > tr > th {
+	color: #FA58AC;
+	background-size: 100%;
+}
+
+#form_tbl {
+	margin-left: 10px;
+}
+
+.error {
+	color: #FF0000;
+}
+
+#result_header{
+	text-align: center;
+	color: #0000FF;
+}
+
+#total {
+	margin-left: 9.4cm;	
+}
+
+#total_no {
+	color: #088A08;
+}
+
+#submit_btn {
+	background-color: #0000FF;
+}
+
+#show_btn {
+	background-color: #3B9314;
+	height: 42px;
+}
+
+#hide_btn {
+	background-color: #F10808;
+	height: 42px;
+}
+
+#div_btn {
+	margin-left: 12%;
+}
